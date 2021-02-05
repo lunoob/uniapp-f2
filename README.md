@@ -5,7 +5,7 @@ use antv-f2 in uniapp weapp
 ## 微信小程序
 效果图
 
-![image-20210205125859840](/Users/mac/uniapp-f2/images/README/image-20210205125859840.png)
+![image-20210205125859840](/images/README/image-20210205125859840.png)
 
 
 
